@@ -1,0 +1,21 @@
+{
+  "name": "quizgame-zhang-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel serve ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staten-island-tech/quizgame-zhang-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0-beta.2",
+    "parcel": "^2.0.0-beta.2"
+  }
+}
