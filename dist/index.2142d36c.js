@@ -442,6 +442,35 @@ id) /*: string*/
 }
 
 },{}],"3L8AI":[function(require,module,exports) {
+//variables
+const quizContainer = document.getElementById("quiz");
+const quizResult = document.getElementById("results");
+const submitButton = document.getElementById("submit")
+
+const theQuestions = [
+    {
+        question: "what is the answer??",
+        answer: {
+            a: a,
+            b: b,
+            c: c,
+        },
+        correctAnswer: "a"
+    },
+    {
+        question: "what is the answer??",
+        answer: {
+            a: a,
+            b: b,
+            c: c,
+        },
+        correctAnswer: "a"
+    }
+];
+
+//functions
+function startQuiz = (){}
+function quizResults = (){}
 
 },{}]},["21c8X","3L8AI"], "3L8AI", "parcelRequire59cc")
 
