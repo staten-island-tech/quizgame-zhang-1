@@ -25,5 +25,6 @@ const theQuestions = [
 ];
 
 //functions
-function startQuiz = (){}
-function quizResults = (){}
+//function startQuiz = (){}
+//function quizResults = (){}
+

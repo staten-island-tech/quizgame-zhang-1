@@ -469,8 +469,9 @@ const theQuestions = [
 ];
 
 //functions
-function startQuiz = (){}
-function quizResults = (){}
+//function startQuiz = (){}
+//function quizResults = (){}
+
 
 },{}]},["21c8X","3L8AI"], "3L8AI", "parcelRequire59cc")
 
