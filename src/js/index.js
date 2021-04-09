@@ -66,7 +66,7 @@ const submitButton = document.getElementById("submit");
 //will move this const to body.js later
 const myQuestions = [
   {
-    question: "What cheese looks like an egg?",
+    question: "What cheese does not really qualify as a cheese?",
     answers: {
       a: "Mozzarella",
       b: "Ricotta",
@@ -87,7 +87,7 @@ const myQuestions = [
     correctAnswer: "c",
   },
   {
-    question: "Are parrots tulips?",
+    question: "Are parrots a type of tulip?",
     answers: {
       a: "Yes",
       b: "No",
