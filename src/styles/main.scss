@@ -7,6 +7,12 @@ body {
   font-family: "Merriweather", serif;
 }
 
+body {
+  font-size: 1.5rem;
+  margin: 2rem;
+  padding: 1rem;
+}
+
 .header {
   font-size: 3rem;
   padding-top: 1rem;
@@ -16,4 +22,14 @@ body {
   font-family: "Merriweather", serif;
   font-size: 2rem;
   padding: 1rem;
+}
+
+.question {
+  font-size: 2rem;
+}
+
+.answers {
+  font-size: 1.7rem;
+  padding: 1rem;
+  margin: 1rem;
 }
