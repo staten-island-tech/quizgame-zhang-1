@@ -1,5 +1,3 @@
-export { myQuestions };
-
 const myQuestions = [
   {
     question: "What cheese does not really qualify as a cheese?",
@@ -51,3 +49,5 @@ const myQuestions = [
     correctAnswer: "a",
   },
 ];
+
+//export { myQuestions };
