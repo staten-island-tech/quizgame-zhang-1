@@ -4,8 +4,8 @@
   "description": "",
   "main": "dist/index.html",
   "scripts": {
-    "start": "parcel serve ./src/index.html",
-    "build": "parcel build ./src/index.html"
+    "start": "parcel serve ./dist/index.html",
+    "build": "parcel build ./dist/index.html"
   },
   "repository": {
     "type": "git",
