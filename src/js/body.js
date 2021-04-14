@@ -1,4 +1,4 @@
-const myQuestions = [
+let myQuestions = [
   {
     question: "What cheese does not really qualify as a cheese?",
     answers: {

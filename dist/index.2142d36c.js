@@ -504,7 +504,7 @@ _parcelHelpers.defineInteropFlag(exports);
 _parcelHelpers.export(exports, "myQuestions", function () {
   return myQuestions;
 });
-const myQuestions = [{
+let myQuestions = [{
   question: "What cheese does not really qualify as a cheese?",
   answers: {
     a: "Mozzarella",
