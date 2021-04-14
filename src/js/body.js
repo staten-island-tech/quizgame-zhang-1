@@ -1,4 +1,4 @@
-let myQuestions = [
+const myQuestions = [
   {
     question: "What cheese does not really qualify as a cheese?",
     answers: {
@@ -50,4 +50,4 @@ let myQuestions = [
   },
 ];
 
-export { myQuestions };
+//export { myQuestions };
