@@ -2,7 +2,7 @@
   "name": "quizgame-zhang-1",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.html",
   "scripts": {
     "start": "parcel serve ./src/index.html",
     "build": "parcel build ./src/index.html"
