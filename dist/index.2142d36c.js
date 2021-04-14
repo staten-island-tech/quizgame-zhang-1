@@ -443,7 +443,7 @@ id) /*: string*/
 
 },{}],"3L8AI":[function(require,module,exports) {
 //import { myQuestions } from "./body.js";
-//but why
+//why doesnt it work on my laptop
 
 //functions
 //building the quiz
@@ -519,6 +519,7 @@ function showResults() {
 
 //refrences HTML elements
 //variables
+//HTML elements
 const quizContainer = document.getElementById("quiz");
 const resultsContainer = document.getElementById("results");
 const submitButton = document.getElementById("submit");

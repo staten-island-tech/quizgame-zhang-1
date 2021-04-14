@@ -50,4 +50,4 @@ const myQuestions = [
   },
 ];
 
-//export { myQuestions };
+export { myQuestions };
