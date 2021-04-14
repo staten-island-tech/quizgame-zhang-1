@@ -32,6 +32,8 @@ body {
   font-size: 1.7rem;
   padding: 1rem;
   margin: 1rem;
+  display: flex;
+  flex-direction: column;
 }
 
 .blurb {

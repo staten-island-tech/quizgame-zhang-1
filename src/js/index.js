@@ -43,6 +43,7 @@ function showResults() {
     // find selected answer
     const answerContainer = answerContainers[questionNumber];
     const selector = `input[name=question${questionNumber}]:checked`;
+    //for if they don't answer
     const userAnswer = (answerContainer.querySelector(selector) || {}).value;
 
     //effect that will happen once submit is pushed
@@ -65,7 +66,7 @@ function showResults() {
 const quizContainer = document.getElementById("quiz");
 const resultsContainer = document.getElementById("results");
 const submitButton = document.getElementById("submit");
-myQuestions = [
+const myQuestions = [
   {
     question: "What cheese does not really qualify as a cheese?",
     answers: {
