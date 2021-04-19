@@ -443,7 +443,7 @@ id) /*: string*/
 
 },{}],"3L8AI":[function(require,module,exports) {
 //import { myQuestions } from "./body.js";
-//why doesnt it work on my laptop
+//SyntaxError : cannot use import statement outside a module (??)
 
 //functions
 //building the quiz
